@@ -1,5 +1,0 @@
-- id: kwonly-defaults
-  name: kwonly-defaults
-  entry: uvx --from git+https://github.com/SappieKonig/py-rules@v0.1.0 kwonly-defaults
-  language: system
-  pass_filenames: true

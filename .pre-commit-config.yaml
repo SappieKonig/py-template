@@ -1,0 +1,7 @@
+repos:
+  - repo: git@github.com:SappieKonig/py-rules.git
+    rev: HEAD
+    hooks:
+      - id: kwonly-defaults
+        name: kwonly-defaults
+        stages: [pre-commit]
