@@ -11,7 +11,7 @@ This is a Python project template that includes:
 
 1. Clone this template
 2. Update `pyproject.toml` with your project details
-3. Install dependencies: `pip install -e .`
+3. Install dependencies: `uv sync`
 4. Install pre-commit hooks: `pre-commit install`
 
 ## Linting Rules
